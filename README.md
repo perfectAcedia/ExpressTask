@@ -42,7 +42,7 @@ The application will be running at http://localhost:3000(You can change it it ma
 -  Customize the application according to your requirements.
 
 ## Routes
- # User Management:
+ ### User Management:
 
 Create a user:
 ```bash
@@ -69,7 +69,7 @@ DELETE /api/users/:email
 ```
 Remove a specific user from the database.
 
- # Students statistics:
+ ### Students statistics:
 
 Get statistics for all students
 ```bash
@@ -83,7 +83,7 @@ GET /api/students/worst
 ```
 Retrieve information about the student with the worst homework score.
 
- # Articles:
+ ### Articles:
 
 Create an Article
 ```bash
