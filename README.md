@@ -34,7 +34,9 @@ Start the application:
 ```bash
 npm run start
 ```
-The application will be running at http://localhost:3000(You can change it it main.js file);
+The application will be running at http://localhost:3000(You can change it it main.js file)
 
 
 ## Usage
+- Make requests to the provided routes as described in the [Routes](#routes) section.
+-  Customize the application according to your requirements.
