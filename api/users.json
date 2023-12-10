@@ -1,0 +1,162 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "johndoe@example.com",
+    "password": "mysecretpassword",
+    "age": 30,
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345",
+      "country": "USA"
+    },
+    "createdAt": "2023-05-06T08:12:34.567Z",
+    "tags": ["Sales", "Marketing"]
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "email": "alicesmith@example.com",
+    "password": "anotherpassword",
+    "age": 25,
+    "address": {
+      "street": "456 Oak Ave",
+      "city": "Smallville",
+      "state": "NY",
+      "zip": "67890",
+      "country": "USA"
+    },
+    "createdAt": "2023-05-07T10:30:45.678Z",
+    "tags": ["Engineering", "Technology"]
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Johnson",
+    "email": "bobjohnson@example.com",
+    "password": "securepass123",
+    "age": 35,
+    "address": {
+      "street": "789 Pine Rd",
+      "city": "Cityville",
+      "state": "TX",
+      "zip": "54321",
+      "country": "USA"
+    },
+    "createdAt": "2023-05-08T12:45:56.789Z",
+    "tags": ["Finance", "Investing"]
+  },
+  {
+    "firstName": "Eva",
+    "lastName": "Miller",
+    "email": "evamiller@example.com",
+    "password": "evapassword",
+    "age": 28,
+    "address": {
+      "street": "101 Cedar Ln",
+      "city": "Metro City",
+      "state": "FL",
+      "zip": "98765",
+      "country": "USA"
+    },
+    "createdAt": "2023-05-09T15:00:01.234Z",
+    "tags": ["Design", "Art"]
+  },
+  {
+    "firstName": "David",
+    "lastName": "Brown",
+    "email": "davidbrown@example.com",
+    "password": "davidpass456",
+    "age": 40,
+    "address": {
+      "street": "202 Maple Blvd",
+      "city": "Suburbia",
+      "state": "IL",
+      "zip": "13579",
+      "country": "USA"
+    },
+    "createdAt": "2023-05-10T17:15:12.345Z",
+    "tags": ["Human Resources", "Management"]
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Taylor",
+    "email": "sophietaylor@example.com",
+    "password": "sophiepass789",
+    "age": 32,
+    "address": {
+      "street": "303 Elm St",
+      "city": "Villageville",
+      "state": "WA",
+      "zip": "24680",
+      "country": "USA"
+    },
+    "createdAt": "2023-05-11T19:30:23.456Z",
+    "tags": ["Education", "Teaching"]
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "White",
+    "email": "michaelwhite@example.com",
+    "password": "whitepass101",
+    "age": 45,
+    "address": {
+      "street": "404 Birch Dr",
+      "city": "Rural Town",
+      "state": "OH",
+      "zip": "11223",
+      "country": "USA"
+    },
+    "createdAt": "2023-05-12T21:45:34.567Z",
+    "tags": ["Research", "Science"]
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Clark",
+    "email": "oliviaclark@example.com",
+    "password": "oliviapass112",
+    "age": 22,
+    "address": {
+      "street": "505 Pine Ave",
+      "city": "Ocean City",
+      "state": "NJ",
+      "zip": "33445",
+      "country": "USA"
+    },
+    "createdAt": "2023-05-13T23:00:45.678Z",
+    "tags": ["Customer Service", "Support"]
+  },
+  {
+    "firstName": "James",
+    "lastName": "Anderson",
+    "email": "jamesanderson@example.com",
+    "password": "jamespass334",
+    "age": 50,
+    "address": {
+      "street": "606 Cedar Ct",
+      "city": "Hillside",
+      "state": "GA",
+      "zip": "55667",
+      "country": "USA"
+    },
+    "createdAt": "2023-05-14T01:15:56.789Z",
+    "tags": ["Technology", "Programming"]
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Johnson",
+    "email": "emmajohnson@example.com",
+    "password": "emmapass556",
+    "age": 27,
+    "address": {
+      "street": "707 Oak Ln",
+      "city": "Meadowville",
+      "state": "NC",
+      "zip": "77888",
+      "country": "USA"
+    },
+    "createdAt": "2023-05-15T03:30:01.234Z",
+    "tags": ["Health", "Wellness"]
+  }
+]

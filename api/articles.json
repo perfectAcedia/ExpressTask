@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Express - Introduction",
+      "description": "Express - Text",
+      "type": "a",
+      "tags": []
+    },
+    {
+      "name": "React - Basics",
+      "description": "React - Text",
+      "type": "b",
+      "tags": ["React", "JavaScript"]
+    },
+    {
+      "name": "Node.js - Fundamentals",
+      "description": "Node.js - Text",
+      "type": "a",
+      "tags": ["Node.js", "JavaScript"]
+    },
+    {
+      "name": "MongoDB - Basics",
+      "description": "MongoDB - Text",
+      "type": "b",
+      "tags": ["MongoDB", "Database"]
+    },
+    {
+      "name": "JavaScript - ES6 Features",
+      "description": "JavaScript - Text",
+      "type": "a",
+      "tags": ["JavaScript", "Programming"]
+    },
+    {
+      "name": "CSS - Styling Techniques",
+      "description": "CSS - Text",
+      "type": "b",
+      "tags": ["CSS", "Web Design"]
+    },
+    {
+      "name": "HTML5 - Structure and Semantics",
+      "description": "HTML5 - Text",
+      "type": "a",
+      "tags": ["HTML5", "Web Development"]
+    },
+    {
+      "name": "Python - Basics",
+      "description": "Python - Text",
+      "type": "b",
+      "tags": ["Python", "Programming"]
+    },
+    {
+      "name": "Angular - Getting Started",
+      "description": "Angular - Text",
+      "type": "a",
+      "tags": ["Angular", "JavaScript"]
+    },
+    {
+      "name": "Vue.js - Essentials",
+      "description": "Vue.js - Text",
+      "type": "b",
+      "tags": ["Vue.js", "JavaScript"]
+    }
+  ]
+  

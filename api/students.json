@@ -1,0 +1,173 @@
+[
+    {
+      "name": "Aimee Zank",
+      "scores": [
+        {
+          "score": 1.463179736705023,
+          "type": "exam"
+        },
+        {
+          "score": 11.78273309957772,
+          "type": "quiz"
+        },
+        {
+          "score": 35.8740349954354,
+          "type": "homework"
+        }
+      ]
+    },
+    {
+      "name": "Benjamin Johnson",
+      "scores": [
+        {
+          "score": 8.239483094822671,
+          "type": "exam"
+        },
+        {
+          "score": 9.578234567890123,
+          "type": "quiz"
+        },
+        {
+          "score": 25.67893456789012,
+          "type": "homework"
+        }
+      ]
+    },
+    {
+      "name": "Catherine Smith",
+      "scores": [
+        {
+          "score": 15.67893456789012,
+          "type": "exam"
+        },
+        {
+          "score": 20.239483094822671,
+          "type": "quiz"
+        },
+        {
+          "score": 30.56789012345678,
+          "type": "homework"
+        }
+      ]
+    },
+    {
+      "name": "Daniel Williams",
+      "scores": [
+        {
+          "score": 5.678934567890123,
+          "type": "exam"
+        },
+        {
+          "score": 18.23948309482267,
+          "type": "quiz"
+        },
+        {
+          "score": 40.56789012345678,
+          "type": "homework"
+        }
+      ]
+    },
+    {
+      "name": "Emily Davis",
+      "scores": [
+        {
+          "score": 20.67893456789012,
+          "type": "exam"
+        },
+        {
+          "score": 14.239483094822671,
+          "type": "quiz"
+        },
+        {
+          "score": 32.56789012345678,
+          "type": "homework"
+        }
+      ]
+    },
+    {
+      "name": "Frank Jackson",
+      "scores": [
+        {
+          "score": 12.678934567890123,
+          "type": "exam"
+        },
+        {
+          "score": 22.23948309482267,
+          "type": "quiz"
+        },
+        {
+          "score": 28.56789012345678,
+          "type": "homework"
+        }
+      ]
+    },
+    {
+      "name": "Grace Brown",
+      "scores": [
+        {
+          "score": 18.67893456789012,
+          "type": "exam"
+        },
+        {
+          "score": 24.23948309482267,
+          "type": "quiz"
+        },
+        {
+          "score": 36.56789012345678,
+          "type": "homework"
+        }
+      ]
+    },
+    {
+      "name": "Henry Wilson",
+      "scores": [
+        {
+          "score": 9.678934567890123,
+          "type": "exam"
+        },
+        {
+          "score": 16.23948309482267,
+          "type": "quiz"
+        },
+        {
+          "score": 38.56789012345678,
+          "type": "homework"
+        }
+      ]
+    },
+    {
+      "name": "Isabel Miller",
+      "scores": [
+        {
+          "score": 16.67893456789012,
+          "type": "exam"
+        },
+        {
+          "score": 19.23948309482267,
+          "type": "quiz"
+        },
+        {
+          "score": 22.56789012345678,
+          "type": "homework"
+        }
+      ]
+    },
+    {
+      "name": "Jacob Taylor",
+      "scores": [
+        {
+          "score": 14.67893456789012,
+          "type": "exam"
+        },
+        {
+          "score": 12.23948309482267,
+          "type": "quiz"
+        },
+        {
+          "score": 26.56789012345678,
+          "type": "homework"
+        }
+      ]
+    }
+  ]
+  
