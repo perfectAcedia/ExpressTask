@@ -21,4 +21,7 @@ Express Task is a web application built with Express.js that provides endpoints 
 
 ```bash
 git clone https://github.com/perfectAcedia/ExpressTask.git
+```
+```bash
 cd ExpressTask
+```
