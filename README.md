@@ -22,6 +22,19 @@ Express Task is a web application built with Express.js that provides endpoints 
 ```bash
 git clone https://github.com/perfectAcedia/ExpressTask.git
 ```
+Go to the created directory
 ```bash
 cd ExpressTask
 ```
+Install dependencies:
+```bash
+npm install
+```
+Start the application:
+```bash
+npm run start
+```
+The application will be running at http://localhost:3000(You can change it it main.js file);
+
+
+## Usage
